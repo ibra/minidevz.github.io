@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/tags/announcement/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/categories/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/categories/general/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/posts/hello/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/posts/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/tags/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/l2/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/search.l2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ibrahim.thedev.id/series/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ibrahim.thedev.id/sitemap.xml
