@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YourShot on Ibra&#39;s Notebook</title>
+    <link>https://ibrahim.thedev.id/categories/yourshot/</link>
+    <description>Recent content in YourShot on Ibra&#39;s Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ibrahim.thedev.id/categories/yourshot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Added Save Points to YourShot</title>
+      <link>https://ibrahim.thedev.id/posts/yourshot-save-points-copy/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ibrahim.thedev.id/posts/yourshot-save-points-copy/</guid>
+      <description>The time has come to add a proper method of saving to YourShot.
+Previously i had been using the Pause Menu to allow for saving, but I feel like it just doesnt fit the game, and also breaks immersion for a while when you&amp;rsquo;re opening a menu, completely freezing the game, and then pressing save. I looked into a bunch of approaches. This video in particular was especially helpful. I wrote down most approaches that I saw, and heres a list:</description>
+    </item>
+    
+  </channel>
+</rss>

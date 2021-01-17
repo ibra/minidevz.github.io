@@ -12,7 +12,7 @@
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ibrahim.thedev.id/posts/ability-system-unity/</guid>
-      <description>Introduction Over the past few days, ive been working on YourShot&amp;rsquo;s Ability system. I tried looking online and there theres not really enough information for a newbie to make an informed decision about how they should approach going about this. In the end I personally settled on a mix of inheritance and scriptable objects. The two objectives for this Ability System for me personally were:
+      <description>Over the past few days, ive been working on YourShot&amp;rsquo;s Ability system. I tried looking online and there theres not really enough information for a newbie to make an informed decision about how they should approach going about this. In the end I personally settled on a mix of inheritance and scriptable objects. The two objectives for this Ability System for me personally were:
  Making sure that any sort of ability can be created with the system.</description>
     </item>
     
